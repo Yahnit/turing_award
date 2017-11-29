@@ -50,8 +50,27 @@ economics including theorem, human rationality, behavioral study of
 firms, theory of casual ordering, and the analysis of the 
 identification problem in econometrics.
 
+** Contributions to today's technology
+Simon was a pioneer in the field of artificial intelligence, 
+creating with Allen Newell the Logic Theory Machine (1956) and 
+the General Problem Solver (GPS) (1957) programs.
+
+Simon along with Allen Newel developed a theory for the simulation of
+human problem solving behavior using production rules.
+
+Simon developed the Elementary Perceiver and Memorizer(EPAM) theory,
+one of the first theories of learning to be implemented as a 
+computer program. EPAM was able to explain a large number of 
+phenomena in the field of verbal learning.
+
+Simon has been credited for revolutionary changes in microeconomics. 
+He is responsible for the concept of organizational decision-making. 
+He also was the first to discuss this concept in terms of uncertainty 
+i.e. it is impossible to have perfect and complete information at 
+any given time to make a decision.
+
 * Honors and Prizes
-He has received manu top-level honors in life. These include
+He has received many top-level honors in life. These include:
 **** ACM's Turing Award
 **** Becoming a fellow of the American Academy of Arts and Sciences
 **** Election to the National Academy of Sciences in 1967
