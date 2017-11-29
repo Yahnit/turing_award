@@ -1,3 +1,11 @@
+#+TITLE: Herbert A. Simon
+#+AUTHOR: Shreya Terupally
+#+DATE: [2017-11-27 Mon]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
 * Introduction
 Herbert Alexander Simon was born in Milwaukee, Wisconsin on June 15, 1916. 
 
