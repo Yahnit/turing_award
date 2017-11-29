@@ -40,8 +40,10 @@ Simon became best known for his theory of corporate decision in
 his book Administrative Behavior. In this book he based his 
 concepts with an approach that recognized multiple factors that 
 contribute to decision making.
+
 Herbert Simon has made a great number of profound and in depth 
 contributions to both economic analysis and applications. 
+
 Because of this, his work can be found in a number of economic 
 literary works, making contributions to areas such as mathematical 
 economics including theorem, human rationality, behavioral study of 
@@ -50,14 +52,14 @@ identification problem in econometrics.
 
 * Honors and Prizes
 He has received manu top-level honors in life. These include
-** ACM's Turing Award
-** Becoming a fellow of the American Academy of Arts and Sciences
-** Election to the National Academy of Sciences in 1967
-** APA Award for Distinguished Scientific Contributions to Psychology (1969)
-** Nobel Memorial Prize in Economics
-** APA's Award for Outstanding Lifetime Contributions to Psychology (1993)
-** IJCAI Award for Research Excellence
-** Honorary doctorate, Lund School of Economics and Management, 1968.
-** Honorary degree, University of Pavia, 1988.
-** Honorary Doctor of Laws (LL.D.) degree from Harvard University in 1990.
-** Honorary degree, University of Buenos Aires, 1999
+**** ACM's Turing Award
+**** Becoming a fellow of the American Academy of Arts and Sciences
+**** Election to the National Academy of Sciences in 1967
+**** APA Award for Distinguished Scientific Contributions to Psychology (1969)
+**** Nobel Memorial Prize in Economics
+**** APA's Award for Outstanding Lifetime Contributions to Psychology (1993)
+**** IJCAI Award for Research Excellence
+**** Honorary doctorate, Lund School of Economics and Management, 1968.
+**** Honorary degree, University of Pavia, 1988.
+**** Honorary Doctor of Laws (LL.D.) degree from Harvard University in 1990.
+**** Honorary degree, University of Buenos Aires, 1999
