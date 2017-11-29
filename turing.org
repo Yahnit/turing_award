@@ -65,20 +65,31 @@ phenomena in the field of verbal learning.
 
 Simon has been credited for revolutionary changes in microeconomics. 
 He is responsible for the concept of organizational decision-making. 
+
 He also was the first to discuss this concept in terms of uncertainty 
 i.e. it is impossible to have perfect and complete information at 
 any given time to make a decision.
 
+Simon also collaborated with James G. March on several works 
+in organization theory.
+
+Simon's work has strongly influenced John Mighton, developer of a 
+program that has achieved significant success in improving 
+mathematics performance among elementary and high school students.
+
+* Books
+Simon was prolific, and authored 27 books and almost a thousand papers.
+
 * Honors and Prizes
 He has received many top-level honors in life. These include:
-**** ACM's Turing Award
-**** Becoming a fellow of the American Academy of Arts and Sciences
-**** Election to the National Academy of Sciences in 1967
-**** APA Award for Distinguished Scientific Contributions to Psychology (1969)
-**** Nobel Memorial Prize in Economics
-**** APA's Award for Outstanding Lifetime Contributions to Psychology (1993)
-**** IJCAI Award for Research Excellence
-**** Honorary doctorate, Lund School of Economics and Management, 1968.
-**** Honorary degree, University of Pavia, 1988.
-**** Honorary Doctor of Laws (LL.D.) degree from Harvard University in 1990.
-**** Honorary degree, University of Buenos Aires, 1999
+***** ACM's Turing Award
+***** Becoming a fellow of the American Academy of Arts and Sciences
+***** Election to the National Academy of Sciences in 1967
+***** APA Award for Distinguished Scientific Contributions to Psychology (1969)
+***** Nobel Memorial Prize in Economics
+***** APA's Award for Outstanding Lifetime Contributions to Psychology (1993)
+***** IJCAI Award for Research Excellence
+***** Honorary doctorate, Lund School of Economics and Management, 1968.
+***** Honorary degree, University of Pavia, 1988.
+***** Honorary Doctor of Laws (LL.D.) degree from Harvard University in 1990.
+***** Honorary degree, University of Buenos Aires, 1999
